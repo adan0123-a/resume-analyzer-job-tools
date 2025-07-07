@@ -1,0 +1,6 @@
+streamlit
+spacy
+PyPDF2
+transformers
+requests
+streamlit-option-menu
